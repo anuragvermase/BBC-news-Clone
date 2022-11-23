@@ -115,9 +115,9 @@ h1{
     border-right: 1px solid #BB454F;
     font-size: 14px;
     position: relative;
-    top: 11px;
-    
+    top: 11px;    
 }
+
 #menu-bar-2 a:hover {
     text-decoration: underline;
 }
@@ -160,6 +160,7 @@ h3 a {
     font-family: Garamond, serif
      
 }
+
 h3 a:hover {
     color: #B80000;
 }
@@ -218,71 +219,13 @@ h3 a:hover {
     margin-left: 10px;
     
 }
+
 .article-1 h5{
     font-style: normal;
     margin-top: 0px;
     margin-left: 10px;
     color: #5A5A5A;
 }
-
-
-
-.article-2{
-    margin-top: 20px;
-    width: 240px;
-    height: 350px;
-}
-
-#article-2-image{
-    margin-top:32px ;
-    margin-left: 10px;
-    width: 230px;
-    display: flex;
-}
-
-.article-2 p{
-    font-size: large;
-    margin-top: 5px;
-    margin-left: 10px;
-    
-}
-.article-2 h5{
-    font-style: normal;
-    margin-top: 0px;
-    margin-left: 10px;
-    color: #5A5A5A;
-}
-
-
-
-.article-3{
-    margin-top: 20px;
-    width: 240px;
-    height: 350px;
-}
-
-#article-3-image{
-    margin-top:32px ;
-    margin-left: 10px;
-    width: 230px;
-    display: flex;
-}
-
-.article-3 p{
-    font-size: large;
-    margin-top: 5px;
-    margin-left: 10px;
-    
-}
-.article-3 h5{
-    font-style: normal;
-    margin-top: 0px;
-    margin-left: 10px;
-    color: #5A5A5A;
-}
-
-
-
 
 #article-clock-1 {
     height: 16px;
@@ -303,9 +246,37 @@ h3 a:hover {
     color: #B80000;
     text-decoration: underline;
 }
+
 .article-1 p:hover {
     color: #B80000;
     text-decoration: underline;
+}
+
+
+.article-2{
+    margin-top: 20px;
+    width: 240px;
+    height: 350px;
+}
+
+#article-2-image{
+    margin-top:32px ;
+    margin-left: 10px;
+    width: 230px;
+    display: flex;
+}
+
+.article-2 p{
+    font-size: large;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.article-2 h5{
+    font-style: normal;
+    margin-top: 0px;
+    margin-left: 10px;
+    color: #5A5A5A;
 }
 
 #article-clock-2 {
@@ -314,6 +285,7 @@ h3 a:hover {
     margin-left: 10px;
     top:3px;
 }
+
 #topic-link-2{
     text-decoration: none;
     color: black;
@@ -324,11 +296,38 @@ h3 a:hover {
     color: #B80000;
     text-decoration: underline;
 }
+
 .article-2 p:hover {
     color: #B80000;
     text-decoration: underline;
 }
 
+.article-3{
+    margin-top: 20px;
+    width: 240px;
+    height: 350px;
+}
+
+#article-3-image{
+    margin-top:32px ;
+    margin-left: 10px;
+    width: 230px;
+    display: flex;
+}
+
+.article-3 p{
+    font-size: large;
+    margin-top: 5px;
+    margin-left: 10px;
+    
+}
+
+.article-3 h5{
+    font-style: normal;
+    margin-top: 0px;
+    margin-left: 10px;
+    color: #5A5A5A;
+}
 
 #article-clock-3 {
     height: 16px;
@@ -336,6 +335,7 @@ h3 a:hover {
     margin-left: 10px;
     top:3px;
 }
+
 #topic-link-3{
     text-decoration: none;
     color: black;
@@ -346,12 +346,11 @@ h3 a:hover {
     color: #B80000;
     text-decoration: underline;
 }
+
 .article-3 p:hover {
     color: #B80000;
     text-decoration: underline;
 }
-
-
 
 .article-4{
     margin-top: 20px;
@@ -372,18 +371,21 @@ h3 a:hover {
     margin-left: 10px;
     
 }
+
 .article-4 h5{
     font-style: normal;
     margin-top: 0px;
     margin-left: 10px;
     color: #5A5A5A;
 }
+
 #article-clock-4 {
     height: 16px;
     position: relative;
     margin-left: 10px;
     top:3px;
 }
+
 #topic-link-4{
     text-decoration: none;
     color: black;
@@ -394,11 +396,11 @@ h3 a:hover {
     color: #B80000;
     text-decoration: underline;
 }
+
 .article-4 p:hover {
     color: #B80000;
     text-decoration: underline;
 }
-
 
 .article-5{
     margin-top: 20px;
@@ -417,20 +419,22 @@ h3 a:hover {
     font-size: large;
     margin-top: 5px;
     margin-left: 10px;
-    
 }
+
 .article-5 h5{
     font-style: normal;
     margin-top: 0px;
     margin-left: 10px;
     color: #5A5A5A;
 }
+
 #article-clock-5 {
     height: 16px;
     position: relative;
     margin-left: 10px;
     top:3px;
 }
+
 #topic-link-5{
     text-decoration: none;
     color: black;
@@ -441,6 +445,7 @@ h3 a:hover {
     color: #B80000;
     text-decoration: underline;
 }
+
 .article-5 p:hover {
     color: #B80000;
     text-decoration: underline;
@@ -464,20 +469,22 @@ h3 a:hover {
     font-size: large;
     margin-top: 5px;
     margin-left: 10px;
-    
 }
+
 .article-6 h5{
     font-style: normal;
     margin-top: 0px;
     margin-left: 10px;
     color: #5A5A5A;
 }
+
 #article-clock-6 {
     height: 16px;
     position: relative;
     margin-left: 10px;
     top:3px;
 }
+
 #topic-link-6{
     text-decoration: none;
     color: black;
@@ -493,26 +500,38 @@ h3 a:hover {
      color: #B80000;
      text-decoration: underline;
 }
+
 #topic-link-2:hover{
     color: #B80000;
     text-decoration: underline;
 }
+
 #topic-link-3:hover{
     color: #B80000;
     text-decoration: underline;
 }
+
 #topic-link-4:hover{
     color: #B80000;
     text-decoration: underline;
 }
+
 #topic-link-5:hover{
     color: #B80000;
     text-decoration: underline;
 }
+
 #topic-link-6:hover{
     color: #B80000;
     text-decoration: underline;
 }
+
+
+  
+
+
+
+
 
 
   
